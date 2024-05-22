@@ -1,0 +1,37 @@
+.body {
+  margin: 0;
+}
+
+.header {
+  width: 947px;
+  margin: auto;
+  background-image: url(./backHeader.jpeg);
+  height: 463px;
+}
+
+.header__pic {
+    width: 332px;
+
+}
+
+.header__text {
+    font-size: 64px;
+    color: white;
+    margin-top: 0;
+    margin-left: 23px;
+}
+
+.section {
+    display: flex;
+    margin: auto;
+    width: 947px;
+    height: 719px;
+    background-image: url(./фото.jpeg);
+}
+
+.section__pic {
+    margin-left: auto;
+    margin-top: 48px;
+    width: 595px;
+    height: 671px;
+}
